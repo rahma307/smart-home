@@ -1,0 +1,12 @@
+STEPPER_PRG.o STEPPER_PRG.o: ../STEPPER_PRG.c ../STD_TYPES.h \
+  ../BIT_MATH.h ../DIO_INT.h ../STEPPER_INT.h ../STEPPER-CONFIG.h
+
+../STD_TYPES.h:
+
+../BIT_MATH.h:
+
+../DIO_INT.h:
+
+../STEPPER_INT.h:
+
+../STEPPER-CONFIG.h:

@@ -1,0 +1,8 @@
+GLOPAL_PRG.o GLOPAL_PRG.o: ../GLOPAL_PRG.c ../STD_TYPES.h ../BIT_MATH.h \
+  ../GLOPAL_INT.h
+
+../STD_TYPES.h:
+
+../BIT_MATH.h:
+
+../GLOPAL_INT.h:
